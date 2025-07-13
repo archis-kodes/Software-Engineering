@@ -20,14 +20,15 @@
 - Deploy/Maintainance
 
 # Classical Waterfall Model
-```
+![Classical waterfall Model](https://media.geeksforgeeks.org/wp-content/uploads/20200330182523/Untitled-Diagram83.png)
+<!--```
 Feasibility Study
     ↳ Requirement Analysis and Specification
         ↳ Design
             ↳ Coding and Unit Testing
                 ↳ System Testing and Integration
                     ↳ Maintainance
-```
+```-->
 ### Advantages
 - Base Model
 - Simple and Easy
@@ -41,14 +42,15 @@ Feasibility Study
 - 60% Effort Maintainance
 
 # Iterative Waterfall Model
-```
+![Iterative Waterfall Model](https://media.geeksforgeeks.org/wp-content/uploads/20240314155656/Example-of-Interative-Waterfall-Model.webp)
+<!--```
 Feasibility Study
    ↳ Requirement Analysis and Specification
         ↑ Design
         |    ↑  Coding and Unit Testing
         |    |   ↑ System testing and Integration
         |━━|━━|━━↑━ Maintainance
-```
+```-->
 
 ### Advantages
 - Base Model
@@ -64,6 +66,7 @@ Feasibility Study
 - 60% Effort Maintainance
 
 # V-Shaped Model
+![V shaped Model](https://media.geeksforgeeks.org/wp-content/uploads/20231030123258/software-Testing-SDLC-V-model.webp)
 - Also known as Verification and Validation Model
 - Extension of Waterfall model
 - Testing is associated with every phase of lifecycle
