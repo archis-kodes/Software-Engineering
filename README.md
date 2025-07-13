@@ -85,3 +85,81 @@ Feasibility Study
 - Risk analysis not done
 - Not good for object-oriented projects
 
+# Prototyping Model
+![Prototyping Model](https://media.geeksforgeeks.org/wp-content/uploads/Prototyping-model.png)
+- Customer not clear with idea
+- Throw away model
+- Good for technical and requirement risks
+- Increase in Cost of Development
+
+# Incremental Model
+![Incremental Model](https://media.geeksforgeeks.org/wp-content/uploads/20240530140654/incremental.jpg)
+- Module by module working
+- Large Projects
+- Early release product demands
+- Flexible to changes
+
+# Evolutionary Model
+![Evolutionary Model](https://media.geeksforgeeks.org/wp-content/uploads/20190430124930/33331.jpg)
+- Evolutionary model is a combination of Iterative and Incremental model of software development life cycle.
+- Incremental model first implements a few basic features and delivber to the customer. Then build the next part and deliver it again and repeat this step until the desired system is fully realized. No long-term plans are made.
+- Iterative model main advantage is its feedback process in every phase.
+
+# Spiral Model
+![Spiral Model](https://media.geeksforgeeks.org/wp-content/uploads/20240530140428/spiral-1-1024x945-660.webp)
+1. Objective Determination and Identify alternative solutions
+2. Itentify and resolve risks
+3. Develop next version of product
+4. Review and plan for next phase
+
+- Risk Handling
+- Radius of Spiral = Cost
+- Angular Dimension = Progress
+- Meta model
+
+### Advantages
+- Risk Handling
+- Large projects
+- Flexible
+- Customer Satisfaction
+
+### Disadvantages
+- Complex
+- Expensive
+- Too much Risk Analysis
+- Time
+
+# Agile Model
+![Agile Model](https://media.geeksforgeeks.org/wp-content/uploads/20240529165415/agile.jpg)
+### Advantages
+- Face to face communication client
+- Changes
+- Time
+
+### Disadvantages
+- Less documentation
+- Maintainance Problem
+
+# SCRUM Model (Agile Model)
+![SCRUM Model](https://media.geeksforgeeks.org/wp-content/uploads/20240529122458/What-is-Scrum.webp)
+- SCRUM is lightweight, iterative, incremental framework
+
+### Advantages
+- Freedom and Adaptation
+- High quality, low risk product
+- Reduce the development time up to 40%
+- Scrum curtomer satisfaction is very important
+- Reviewing the current sprint before moving to new one
+
+### Disadvantages
+- More efficient for small team size
+- No changes in the sprint
+
+# Comparison🔥
+| Classical Waterfall | Iterative Waterfall | Prototype Model | Incremental Model |Evolutionary Model | RAD Model | Spiral Model | Agile Model
+| -------- | ------- | -------- | ------- | -------- | ------- | -------- | -------- |
+| Basic | Basic | User Requirement not clear | Module by Module delivery | Large projects | Time and cost constraints | Risk management | Flexible
+| Rigid | Problem is well understood | Costly | Easy to test and debug | | User at all levels | Not for small projects | Advanced 
+| Inflexible | | No early lock on requirements | | | Reusability | No early lock on requirements | Parallel
+| Not for Real Project | | High User involvement | | | | Less Experience can work | Process divided into sprints
+
